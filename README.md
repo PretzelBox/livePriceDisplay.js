@@ -1,6 +1,6 @@
 #livePriceDisplay.js
 
-Display the current price of a product according to the quantity/variant selected.
+Display the current price of a product according to the quantity/variant selected on an AmeriCommerce product details page.
 
 ---
 
