@@ -28,7 +28,7 @@ function getQtyPrice(qty){
     } else if (k.split('+').length === 2 && parseFloat(k.split('+')[0], 10) <= qty) {
       return matrix[k];
     }
-      }
+  }
   
   return prc;
 }
